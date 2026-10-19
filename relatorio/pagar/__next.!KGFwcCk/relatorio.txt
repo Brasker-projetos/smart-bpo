@@ -2,4 +2,4 @@
 2:I[39756,["/smart-bpo/_next/static/chunks/16s-q1v7aeo1p.js","/smart-bpo/_next/static/chunks/3su03a_ho9-rs.js","/smart-bpo/_next/static/chunks/2f619hk6v7u6j.js"],"default"]
 3:I[37457,["/smart-bpo/_next/static/chunks/16s-q1v7aeo1p.js","/smart-bpo/_next/static/chunks/3su03a_ho9-rs.js","/smart-bpo/_next/static/chunks/2f619hk6v7u6j.js"],"default"]
 4:[]
-0:{"rsc":["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","template":["$","$L3",null,{}]}]]}],"isPartial":false,"staleTime":300,"varyParams":"$W4","buildId":"onByMWJ5Cucoa8DGy-KVf"}
+0:{"rsc":["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","template":["$","$L3",null,{}]}]]}],"isPartial":false,"staleTime":300,"varyParams":"$W4","buildId":"ZS9A6cvw9NjdYKPcrV2SV"}
